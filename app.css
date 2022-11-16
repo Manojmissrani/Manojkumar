@@ -1,0 +1,411 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+.h1{
+    color: #000;
+    font-size: 48px;
+    /* font-style: normal; */
+    font-weight: 600;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.div1{
+    margin-top: 130px;
+    margin-left: 70px;
+}
+p{
+    color: #757575;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    margin-top: 20px;
+}
+
+.img1{
+    margin-left: 726px;
+    margin-top: -350px;
+    width: 43%;
+}
+
+
+.button1{
+    background-color: #6c0740;
+    color: white;
+    margin: 0px;
+    border: 0px;
+    height: 45px;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+}
+input {
+        background: none;
+        border: none;
+        outline: none;
+}
+
+.input{
+    color: hsla(0,0%,46%,.5);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    margin-right: 15px;
+    width: 80%;
+}
+input::placeholder{
+    color: #817775;
+    background-color: #f3f3f3;
+}
+.div2{
+    background: #f3f3f3;
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 15px;
+    width: 50%;
+}
+
+.div3{
+    margin-top: 70px;
+    margin-left: 80px;
+}
+.div4{
+    text-align: right;
+    margin-right: 43px;
+    padding: 35px;
+    margin-top: -50px;
+
+}
+.button2{
+    font-size: 24px;
+    background-color: white;
+    cursor: pointer;
+
+}
+.img2{
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: rgb(215, 235, 245);
+}
+
+.div6{
+    background-image: url(./image/bgimage.png);
+    margin: 10px 80px;
+    background-size: 100% 100%;
+    height: 330px;
+    padding-left: 30px;
+    position: relative;
+    border-radius: 5px;
+
+}
+.h2{
+    font-size: 30px;
+    line-height: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+.div7{
+    font-size: 20px;
+    padding: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+.p2{
+    font-size: 18px;
+    line-height: 20px;
+}
+.button3{
+    background-color: #000;
+    color: white;
+    height: 50px;
+    width: 160px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.p3{
+    font-size: 18px;
+    line-height: 20px;
+    color: #000;
+}
+.div8{
+    margin: 50px 100px;
+    display: flex;
+}
+.img4{
+    margin-left: 200px;
+}
+.div9{
+    margin-top: 150px;
+}
+.button4{
+    background-color: #6c0740;
+    color: white;
+    height: 45px;
+    width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.div10{
+    background-image: url(./image/bgimage2.png) ;
+    display: flex;
+
+}
+.div11{
+    padding: 100px;
+    border-bottom: 1px solid rgb(233, 230, 230);
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+#id1{
+    background-color: #f9f9f9;
+    
+}
+#id1:hover{
+    background-color: rgb(215, 235, 245);
+}
+.div5{
+    padding: 35px;
+    margin-top: -130px;
+    margin-left: 750px;
+
+}
+.i{
+    text-align: left;  
+}
+.d{
+    border: 1px solid gray;
+    width: 50%;
+    margin: 5px 5px;
+    border-radius: 5px;
+
+
+}
+.t1{
+    width: 100%;
+    text-align:center;
+    padding: 25px;
+    padding-bottom: 40px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+}
+.h{
+    margin-top: -50px;
+    cursor: pointer;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.dv{
+    display:flex;
+}
+
+
+.div13{
+    margin: 60px;    border-radius: 5px;
+    background-color: #f9f9f9;
+    border: 1px solid rgb(233, 221, 221);
+    display: flex;
+}
+
+.div14{
+    padding: 50px;
+    padding-top: 70px;
+
+}
+
+.img7{
+    margin: 50px;
+    width: 250px;
+}
+.h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    margin-bottom: -10px;
+}
+
+.div15{
+    background-color:#f9f9f9 ;
+}
+.div16{
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+}
+.box{
+    border: 1px solid #e9e0e0;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+.b{
+    width: 200px;
+    font-size: 18px;
+    height: 40px;
+    cursor: pointer;
+    font-family: 'Ubuntu', sans-serif;
+}
+.b:active{
+    background-color: #6c0740;
+    border: 1px solid #6c0740;
+    border-radius: 5px;
+    color: #fff;
+}
+h3{
+    font-family: 'Xanh Mono', monospace;
+}
+.c1{
+    width: 20%;
+}
+
+
+
+
+
+.div17{
+    width: 25%;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: white;
+    margin-bottom: 0px;
+}
+.i1{
+    width: 100%;
+    border-radius: 5px;
+    height: 150PX;
+}
+.p1{
+    color: black;
+    font-family: 'Oswald', sans-serif;
+}
+.p2{
+    margin: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.button5{
+    background-color: #6c0740;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button6{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    text-decoration:underline;
+    margin-left: 36px;
+    cursor: pointer;
+}
+.div18{
+    display: flex;
+    border-bottom: 0px;
+}
+.icon{
+    width: 15px;
+    height: 15px;
+}
+.icon1{
+    display: flex;
+}
+
+.m{
+    background-color: white;
+    display: flex;
+}
+.m1{
+    padding: 105px;margin-top: 20px;
+}
+
+.img5{
+    width: 90%;
+}
+.h1{
+    font-size: 60px;
+}
+
+.d4{
+    margin: 100px;
+    margin-bottom: 0px;
+}
+.h4{
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.p4{
+    text-align: center;
+}
+.d5{
+    width: 25%;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 10px;
+    background-color: white;
+    margin-bottom: 100px;
+}
+.img6{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+.p5{
+    color: grey;
+    margin-top: 0px;
+}
+
+.d6{
+    margin: 25px 100px ;
+    background-color: #000;
+    color: white;
+    border-radius: 10px;
+}
+.d7{
+    border-radius: 10px;
+    padding: 30px 50px;
+}
+.p7{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    margin-top: 0px;
+    font-family: 'Xanh Mono', monospace;
+}
+.h5{
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+#s{
+    align-self: center;
+}
+.button10{
+    background-color: #6c0740;
+    color: white;
+    margin: 0px;
+    border: 0px;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.d3{
+    background: #f3f3f3;
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 15px;
+    width: 80%;
+    margin-left: 85px;
+    margin-bottom: 0px;
+}
